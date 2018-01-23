@@ -11,5 +11,5 @@ public final class ConstantsLib {
     public static final String SERVERPROXY = BASE_DIR + ".common.proxy.ClientProxy";
     public static final String CLIENTPROXY = BASE_DIR + ".common.proxy.ServerProxy";
 
-
+    public static final String ZOMBIE_DISEASE = "infection_zombie";
 }
